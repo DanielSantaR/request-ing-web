@@ -1,0 +1,56 @@
+_id: req_c223d440291346be86a8aa09090391ee
+type: Request
+parentId: fld_fe5895afa1764aa59b801273b8a0af34
+modified: 1605064541882
+created: 1605063896029
+url: http://localhost:3000/customers/5fab545fc661463a0a009e7d
+name: Update customers
+description: ""
+method: PUT
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: firstName
+      value: Carlos
+      id: pair_9f39592439654cbdb21f9b252da9e74d
+    - name: lastName
+      value: Duque
+      id: pair_6012733dd9dd4735870072a96c0c1eaf
+    - name: email
+      value: cmauricio.duque@udea.edu.co
+      id: pair_15fafa6577a843a99d26e211bdd237bf
+    - name: phoneNumber
+      value: "+573003000909"
+      id: pair_cbeea5861b7f4ca4a18e8a7f45182a5e
+    - name: address
+      value: universidad de Antioquia
+      id: pair_480b41f453c7432e9d7ae7838b3e80f0
+    - name: city
+      value: Medellin
+      id: pair_61774867eef94c77bfa022a34272cdaa
+    - name: state
+      value: Antioquia
+      id: pair_57d19b80ec314f0f872a7026ebfadd51
+    - name: zipCode
+      value: "9874"
+      id: pair_c2ddd1f064a84810a59da1d1dea47272
+    - name: country
+      value: Colombia
+      id: pair_e18ec33c0a5d4dc8964fb266b6974093
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_2e1a6b7789c5493dbe27a583779b0f6c
+  - name: Accept
+    value: application/json
+    id: pair_5addb4d1318748078939487558e5c00e
+authentication: {}
+metaSortKey: -1605063896029
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

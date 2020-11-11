@@ -1,0 +1,21 @@
+_id: req_d825ec6fc0594c79bbfcdf77af99c3f9
+type: Request
+parentId: fld_fe5895afa1764aa59b801273b8a0af34
+modified: 1605064544869
+created: 1605063852901
+url: http://localhost:3000/customers
+name: get customers
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1605063896129
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

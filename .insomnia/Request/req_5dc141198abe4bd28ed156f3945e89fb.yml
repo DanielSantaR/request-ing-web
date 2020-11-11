@@ -1,0 +1,28 @@
+_id: req_5dc141198abe4bd28ed156f3945e89fb
+type: Request
+parentId: fld_fe5895afa1764aa59b801273b8a0af34
+modified: 1605064543657
+created: 1605064111649
+url: http://localhost:3000/customers/5fab545fc661463a0a009e7d
+name: delete customer
+description: ""
+method: DELETE
+body:
+  mimeType: application/x-www-form-urlencoded
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_9c526babdf87444c9dea6335a75b89b6
+  - name: Accept
+    value: application/json
+    id: pair_6623638d27534786acdbf593764e375c
+authentication: {}
+metaSortKey: -1605063896079
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
