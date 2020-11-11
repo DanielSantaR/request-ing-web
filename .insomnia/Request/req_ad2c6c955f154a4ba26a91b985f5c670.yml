@@ -1,8 +1,8 @@
-_id: req_d947b8953e0d4620ae6c53b643e519e9
+_id: req_ad2c6c955f154a4ba26a91b985f5c670
 type: Request
 parentId: fld_fe5895afa1764aa59b801273b8a0af34
-modified: 1605064545951
-created: 1605063479705
+modified: 1605065529574
+created: 1605065468682
 url: http://localhost:3000/customers
 name: Create customer
 description: ""
@@ -11,40 +11,40 @@ body:
   mimeType: application/x-www-form-urlencoded
   params:
     - name: firstName
-      value: Carlos
-      id: pair_da9e28f890454e0e8855a2d5242e9698
+      value: Héctor
+      id: pair_8f677300f41949dbac6c5d8c8cfb050f
     - name: lastName
-      value: Duque
-      id: pair_9ce43f16357349f0a888afa378b3eb01
+      value: Guerra
+      id: pair_d1a449c278644c43bbdb3c0c50f48173
     - name: email
-      value: cmauricio.duque@udea.edu.co
-      id: pair_12a94b3ddb084ea6baa1aa61eaab012f
+      value: hector.guerra@udea.edu.co
+      id: pair_9d019a2566854d50a1161c17f2def98c
     - name: phoneNumber
-      value: "+573003000909"
-      id: pair_aebc78d2cfdb46788044afe6075cb90f
+      value: "+573046738673"
+      id: pair_92e57c65ac694a11a6c25d7a25074b72
     - name: address
       value: udea
-      id: pair_53e11c781ce84dadb17b1ecd711c2660
+      id: pair_ec86b974aad240dba52ddbe434f6ac83
     - name: city
       value: Medellin
-      id: pair_31bd4750e4aa499eb9ac4e223769b91d
+      id: pair_eb903eb100234b8ca87af682229796d8
     - name: state
       value: Antioquia
-      id: pair_493fc79b807a47ca9ee51778ef598f92
+      id: pair_63e2cba761b64f8baf7b56988597951b
     - name: zipCode
       value: "0000"
-      id: pair_09b9d87247ee4c618ce66c489a7daa2c
+      id: pair_f7049339efac4fb29ea59451b0836eb5
     - name: country
       value: Colombia
-      id: pair_306b67b073a4475f990e3b3dcfa2c5b7
+      id: pair_aebb765623e841a584b91284b7350ef9
 parameters: []
 headers:
   - name: Content-Type
     value: application/x-www-form-urlencoded
-    id: pair_d8d568ee7af34827b13c81eece3a612c
+    id: pair_a363dd0dcea2464c99be6cf7bbeab6af
   - name: Accept
     value: application/json
-    id: pair_582e8faf78f24e529b732fc6d3caece0
+    id: pair_0e751888f5c040798cd0a6647768ccfb
 authentication: {}
 metaSortKey: -1605063896179
 isPrivate: false
