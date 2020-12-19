@@ -1,0 +1,32 @@
+_id: req_16a9d474b28f4822b9324ad957d7a578
+type: Request
+parentId: fld_972c982e6ffd4cfb8a014bf8ea12c109
+modified: 1608179366113
+created: 1608155848109
+url: http://localhost:4000/students/add
+name: CreateStudent
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "name": "Arley Berrío",
+      "id": "14",
+      "grades": [3, 3.3, 3],
+    	"approved": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a200ec03f8144753aa182d8db410ec54
+authentication: {}
+metaSortKey: -1608155848109
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

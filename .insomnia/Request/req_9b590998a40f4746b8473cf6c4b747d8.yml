@@ -1,0 +1,32 @@
+_id: req_9b590998a40f4746b8473cf6c4b747d8
+type: Request
+parentId: fld_972c982e6ffd4cfb8a014bf8ea12c109
+modified: 1608181244637
+created: 1608157136455
+url: http://localhost:4000/students/update/5fdae088a819cafc65bedc
+name: UpdateStudent
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "name": "Arley Berrío",
+      "id": "14",
+      "grades": [3, 3.3, 3],
+    	"approved": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_0f1f27c898354d66902b0dfed8096f72
+authentication: {}
+metaSortKey: -1608157136455
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
